@@ -1,1 +1,56 @@
+@startuml
+
+left to right direction
+
+title Use Case Diagram untuk Admin
+
+actor Admin as A
+
+A --> (Mengelola Data Nasabah)
+A --> (Mengelola Transaksi)
+A --> (Mengelola Laporan)
+A --> (Mengelola Data Sampah)
+
+@enduml
+
+@startuml
+
+left to right direction
+
+title Use Case Diagram untuk Nasabah
+
+actor Nasabah as N
+
+N --> (Mendaftar Akun)
+N --> (Melakukan Setor Sampah)
+N --> (Melihat Saldo)
+N --> (Melihat Laporan Transaksi)
+
+@enduml
+
+@startuml
+
+left to right direction
+
+title Use Case Diagram untuk Petugas
+
+actor Petugas as P
+
+P --> (Memvalidasi Transaksi Setor Sampah)
+P --> (Mengelola Penjadwalan Pengambilan Sampah)
+
+@enduml
+
+@startuml
+
+left to right direction
+
+title Use Case Diagram untuk Manajer/Pimpinan
+
+actor Manajer as M
+
+M --> (Melihat Laporan Keuangan)
+M --> (Memantau Aktivitas Operasional)
+
+@enduml
 
