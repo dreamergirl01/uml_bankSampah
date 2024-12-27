@@ -1963,7 +1963,7 @@
         <mxCell id="6CBbtVaRrtp0uMylAWRe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6CBbtVaRrtp0uMylAWRe-2" target="6CBbtVaRrtp0uMylAWRe-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6CBbtVaRrtp0uMylAWRe-2" value="C" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="6CBbtVaRrtp0uMylAWRe-2" value="D" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="174" y="20" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-3" value="proses data sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -2061,7 +2061,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6CBbtVaRrtp0uMylAWRe-33" value="D" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="6CBbtVaRrtp0uMylAWRe-33" value="E" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="174" y="740" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-34" value="ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
