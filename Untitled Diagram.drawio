@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="16">
   <diagram name="use case" id="4Fx8rS0Y3zADDydovGYG">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1613,7 +1613,7 @@
         <mxCell id="r_dyE5QyAELNOoDnbMfH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_dyE5QyAELNOoDnbMfH-25" target="r_dyE5QyAELNOoDnbMfH-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r_dyE5QyAELNOoDnbMfH-25" value="tampilan jenis sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="r_dyE5QyAELNOoDnbMfH-25" value="proses jenis sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="625" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_dyE5QyAELNOoDnbMfH-27" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -1631,7 +1631,7 @@
         <mxCell id="r_dyE5QyAELNOoDnbMfH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_dyE5QyAELNOoDnbMfH-31" target="r_dyE5QyAELNOoDnbMfH-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r_dyE5QyAELNOoDnbMfH-31" value="tampilan data sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="r_dyE5QyAELNOoDnbMfH-31" value="proses data sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="780" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_dyE5QyAELNOoDnbMfH-33" value="C" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -1649,7 +1649,7 @@
         <mxCell id="r_dyE5QyAELNOoDnbMfH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r_dyE5QyAELNOoDnbMfH-37" target="r_dyE5QyAELNOoDnbMfH-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r_dyE5QyAELNOoDnbMfH-37" value="tampilan transaksi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="r_dyE5QyAELNOoDnbMfH-37" value="proses transaksi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="930" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_dyE5QyAELNOoDnbMfH-39" value="D" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -1670,7 +1670,7 @@
         <mxCell id="r_dyE5QyAELNOoDnbMfH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_dyE5QyAELNOoDnbMfH-43" target="r_dyE5QyAELNOoDnbMfH-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r_dyE5QyAELNOoDnbMfH-43" value="tampilan transaksi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="r_dyE5QyAELNOoDnbMfH-43" value="proses transaksi" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="1089" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_dyE5QyAELNOoDnbMfH-45" value="E" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -1748,6 +1748,23 @@
               <mxPoint x="240" y="247" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5g-myUbUOJpEUe9LQ81-" name="flowchart jenis sampah">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcjMOzvTu11b-_1wvzN0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcjMOzvTu11b-_1wvzN0-1" target="YcjMOzvTu11b-_1wvzN0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcjMOzvTu11b-_1wvzN0-1" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcjMOzvTu11b-_1wvzN0-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
