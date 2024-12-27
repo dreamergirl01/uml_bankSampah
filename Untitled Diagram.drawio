@@ -1836,7 +1836,7 @@
         <mxCell id="YcjMOzvTu11b-_1wvzN0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcjMOzvTu11b-_1wvzN0-1" target="YcjMOzvTu11b-_1wvzN0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YcjMOzvTu11b-_1wvzN0-1" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="YcjMOzvTu11b-_1wvzN0-1" value="C" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YcjMOzvTu11b-_1wvzN0-2" value="proses jenis sampah" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
@@ -1934,7 +1934,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q4CgUWSjvy06likjnVfe-28" value="C" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="Q4CgUWSjvy06likjnVfe-28" value="D" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="780" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4CgUWSjvy06likjnVfe-31" value="ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
