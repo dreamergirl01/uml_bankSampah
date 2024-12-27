@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="15">
   <diagram name="use case" id="4Fx8rS0Y3zADDydovGYG">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1711,6 +1711,43 @@
         </mxCell>
         <mxCell id="r_dyE5QyAELNOoDnbMfH-62" value="tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="1180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yoVD-VlHoH-cb8ySOcXo" name="flowchart dasahboard">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QhJf2I3XqZEy5usqxWev-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhJf2I3XqZEy5usqxWev-1" target="QhJf2I3XqZEy5usqxWev-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-1" value="A" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhJf2I3XqZEy5usqxWev-2" target="QhJf2I3XqZEy5usqxWev-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-2" value="tampilan dashboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QhJf2I3XqZEy5usqxWev-4" target="QhJf2I3XqZEy5usqxWev-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-4" value="tampilan jumlah nasabah,&amp;nbsp;&lt;div&gt;tampilan jumlah transaksi&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="265" y="340" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-6" value="B" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;fontSize=15;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="365" y="490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QhJf2I3XqZEy5usqxWev-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QhJf2I3XqZEy5usqxWev-6" target="QhJf2I3XqZEy5usqxWev-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="520" />
+              <mxPoint x="240" y="247" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
