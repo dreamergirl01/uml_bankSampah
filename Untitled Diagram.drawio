@@ -2052,7 +2052,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SzYlv4LSNrPnkJ_L3c4u" name="flowchart data sampah">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2083,6 +2083,14 @@
         <mxCell id="6CBbtVaRrtp0uMylAWRe-9" value="ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="254" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SCjumr7b4DjmCJEy7xi9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6CBbtVaRrtp0uMylAWRe-10" target="6CBbtVaRrtp0uMylAWRe-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+              <mxPoint x="680" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-10" value="tambah data sampah" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="474" y="250" width="100" height="100" as="geometry" />
         </mxCell>
@@ -2100,6 +2108,11 @@
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-18" value="edit data" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="294" y="440" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCjumr7b4DjmCJEy7xi9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6CBbtVaRrtp0uMylAWRe-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-19" value="edit data sampah" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="474" y="420" width="100" height="100" as="geometry" />
@@ -2121,6 +2134,11 @@
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-27" value="hapus data" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="294" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SCjumr7b4DjmCJEy7xi9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6CBbtVaRrtp0uMylAWRe-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6CBbtVaRrtp0uMylAWRe-28" value="hapus data sampah" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="474" y="580" width="100" height="100" as="geometry" />
